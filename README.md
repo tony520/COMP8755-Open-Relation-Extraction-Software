@@ -4,6 +4,7 @@ This is the code repository of COMP8755 Individual Computing Project - Open Rela
 Course: COMP8755
 
 Student Name: Tao Ni
+
 Student UID: u6788943
 
 Supervisor Name: Gabriela Ferraro, Qing Wang
